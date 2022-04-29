@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guang-Yao Zhao"
+title                    : "Rocco Lico"
 title_separator          : "-"
-name                     : &name "Guang-Yao Zhao"
+name                     : &name "Rocco Lico"
 description              : &description "Postdoctoral Fellow at IAA-CSIC"
-url                      : https://gyzhao060.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://roccolico.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gyzhao060/gyzhao060.github.io"
+repository               : "roccolico/roccolico.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guang-Yao Zhao"
-  avatar           : "profile.jpg"
+  name             : "Rocco Lico"
+  avatar           : "rocco.jpeg"
   bio              : "Postdoctoral Fellow at IAA-CSIC"
   location         : "Granada, Spain"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "gyzhao@iaa.es"
+  email            : "rlico@iaa.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gyzhao060"
+  github           : "roccolico"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4417-1659"
+  orcid            : "https://orcid.org/0000-0001-7361-2460"
   pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

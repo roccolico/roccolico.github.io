@@ -3,4 +3,4 @@ title: "Research"
 permalink: /research/
 ---
 
-Summarize Guang-Yao's research here
+Summarize Rocco Lico's research here

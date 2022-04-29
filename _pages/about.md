@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Guang-Yao Zhao
+About Rocco Lico
 
 
