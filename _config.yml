@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rocco Lico"
 title_separator          : "-"
 name                     : &name "Rocco Lico"
-description              : &description "Postdoctoral Fellow <br/> IAA-CSIC"
+description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
 url                      : https://roccolico.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roccolico/roccolico.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rocco Lico"
   avatar           : "rocco.jpeg"
-  bio              : "Postdoctoral Fellow <br/> IAA-CSIC"
+  bio              : "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
   location         : "Granada, Spain"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://es.linkedin.com/in/rocco-lico-1731a8a0"
   orcid            : "https://orcid.org/0000-0001-7361-2460"
   pinterest        : 
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  ads              : 
+  ads              : "https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Lico%2C%20Rocco%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
 
 
 # Reading Files
