@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 
-
-# Publications
-
 {% for publi in site.data.publist %}
 
  <strong> {{ publi.title }} </strong> <br />
