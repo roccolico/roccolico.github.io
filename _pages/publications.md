@@ -2,15 +2,16 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+# Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for publi in site.data.publist %}
+
+ <strong> {{ publi.title }} </strong> <br />
+ <span style="color:grey"> <em>{{ publi.date }},  {{ publi.journal }} </em> </span> <br />
+  <em>{{ publi.authors }} </em><br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ 
 {% endfor %}
