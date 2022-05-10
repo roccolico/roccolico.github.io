@@ -5,6 +5,6 @@ permalink: /extras/
 author_profile: true
 ---
 
-Coming soon.
+Coming soon!
 
 {% include base_path %}
