@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rocco Lico"
 title_separator          : "-"
 name                     : &name "Rocco Lico"
-description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC). Event Horizon Telescope scientist."
 url                      : https://roccolico.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roccolico/roccolico.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://es.linkedin.com/in/rocco-lico-1731a8a0"
+  linkedin         : "rocco-lico-1731a8a0"
   orcid            : "https://orcid.org/0000-0001-7361-2460"
   pinterest        : 
   soundcloud       :

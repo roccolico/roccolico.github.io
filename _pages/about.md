@@ -25,3 +25,4 @@ My research interests and scientific experience are mainly focused on the invest
 
 I'm a member of the [Event Horizon Telescope Collaboration](https://eventhorizontelescope.org/){:target="\_blank"} (EHTC), playing an active role in several science working groups (Imaging, Polarimetry, active galactic nucleai and outreach). In the imaging working group I co-lead the antenna gains and the parameter survey teams. I'm also the Information-Technology Officer of the EHTC and member of the Management Team Secretary.
 
+For a more detailed cv please drop me a message [rlico@iaa.es].
