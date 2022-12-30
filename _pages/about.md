@@ -25,4 +25,4 @@ My research interests and scientific experience are mainly focused on the invest
 
 By pushing the VLBI tecqnique to the limit, at mm wavelengths, with the [Event Horizon Telescope Collaboration](https://eventhorizontelescope.org/organization){:target="\_blank"} (EHT) we are now able to directly image the shadows of super massive black holes. In the EHT Collaboration I'm one of the coordinators of the Active Galactic Nuclei (AGN) working group, and co-leader of the antenna gains and parameter survey teams in the Imaging working group. On the management side, I'm the EHTC Information-Technology Officer and the Management Team Secretary.
 
-For more info about my research work please take a look at the page of our [research team](http://vlbigroup.iaa.es/){:target="\_blank"}. And for a more detailed cv please drop me a message [rlico@iaa.es].
+For more info about my research work please take a look at the page of our [research team](http://vlbigroup.iaa.es/){:target="\_blank"}. And for a more detailed cv just drop me a message [rlico@iaa.es].
