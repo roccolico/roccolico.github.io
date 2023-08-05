@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rocco Lico"
 title_separator          : "-"
 name                     : &name "Rocco Lico"
-description              : &description "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC). Event Horizon Telescope scientist."
+description              : &description "Postdoctoral Fellow <br/> Istituto di Radioastronomia (IRA-INAF) <br/> & Instituto de Astrofísica de Andalucía (IAA-CSIC) <br/> Event Horizon Telescope scientist"
 url                      : https://roccolico.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roccolico/roccolico.github.io"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Rocco Lico"
   avatar           : "rocco.jpeg"
-  bio              : "Postdoctoral Fellow <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+  bio              : "Postdoctoral Fellow <br/> Istituto di Radioastronomia (IRA-INAF) <br/> Instituto de Astrofísica de Andalucía (IAA-CSIC) <br/> Event Horizon Telescope scientist"
+  location         : "Bologna, Italy"
   location         : "Granada, Spain"
   employer         :
   pubmed           : 
