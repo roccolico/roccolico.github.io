@@ -23,7 +23,7 @@ Welcome to my (most likely not-very-up-to-date) webpage! I'm an astrophysicist, 
 
 My research interests and scientific experience mainly focus on the physics of super massive black holes and their relativistic jets. I make use of the so-called very long baseline interferometry (VLBI) technique, that consists in synchronizing multiple radio telescopes across the globe, and provides us with the highest angular resolution achievable from Earth. 
 
-By pushing the VLBI tecqnique to the limit, at mm wavelengths, with the [Event Horizon Telescope Collaboration](https://eventhorizontelescope.org/organization){:target="\_blank"} (EHT) we are now able to directly image the horizon-scale emission of super massive black holes (the so-called 'black hole shadow'). 
+By pushing the VLBI tecqnique to the limit, at mm wavelengths, with the [Event Horizon Telescope](https://eventhorizontelescope.org/organization){:target="\_blank"} (EHT) collaboration we are now able to directly image the horizon-scale emission of super massive black holes (the so-called 'black hole shadow'). 
 
 For more info about my research please explore the other pages from the menu, or take a look [here](http://vlbigroup.iaa.es/){:target="\_blank"}, or just drop me a message [rlico@iaa.es].
 
