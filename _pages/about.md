@@ -24,12 +24,7 @@ I'm an astrophysicist and staff scientist at [Istituto di Radioastronomia - Ital
 
 My research interests and scientific experience are primarily centered on the physics of **supermassive black holes** and their **relativistic jets**. I employ very long baseline interferometry (VLBI)—a technique that synchronizes multiple radio telescopes around the world—to achieve the highest angular resolution attainable from Earth. By pushing the VLBI tecqnique to the limit, at mm wavelengths, with the [Event Horizon Telescope](https://eventhorizontelescope.org/){:target="\_blank"} (EHT) collaboration we are now able to directly image the horizon-scale emission of super massive black holes (the so-called **black hole shadow**). 
 
-
-In the EHT collaboration I play several leading roles ([webpage](https://eventhorizontelescope.org/organization){:target="\_blank"}): 
-- AGN science working group coordinator. 
-- Co-lead of parameter survey and antenna gains teams. 
-- Information and Communication Technology (ICT) Officer.
-- Management Team secretary.
+With the EHT collaboration, I had the privilege to play an active role in making the first ever horizon-scale image of the four million solar masses black hole at the center of the Milky Way, known as Sagittarius A*. For this work, I co-led the parameter survey and antenna gains teams and for my contribution I received one of the ([2022 EHT early-career awards]([https://eventhorizontelescope.org/organization](https://eventhorizontelescope.org/awards-eht)){:target="\_blank"}). 
 
 I'm also member of the **Next-generation Event Horizon Telescope** (I'm one of the facilitators of the multi-wavelength science team of the "BHs and their cosmic context" working group), **Global mm VLBI Array (GMVA)**, **Radioastron space-VLBI**, and **East Asia to Italy nearly global VLBI** scientific pojetcs.
 
