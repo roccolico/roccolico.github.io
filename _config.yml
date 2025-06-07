@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rocco Lico"
   avatar           : "rocco.jpeg"
-  bio              : "Postdoctoral Fellow <br/> Istituto di Radioastronomia (IRA-INAF) & Instituto de Astrofísica de Andalucía (IAA-CSIC) ⋆ EHT scientist."
+  bio              : "Astrophysicist <br/> Istituto di Radioastronomia (IRA-INAF, Italy) & Instituto de Astrofísica de Andalucía (IAA-CSIC, Spain) ⋆ EHT scientist."
   location         : "Terra Mater"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t_313G8AAAAJ&hl=en"
-  email            : "rlico@iaa.es"
+  email            : "rocco.lico@inaf.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
