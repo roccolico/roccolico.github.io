@@ -26,9 +26,7 @@ My research interests and scientific experience are primarily centered on the ph
 
 With the EHT collaboration, I had the privilege to play an active role in making the first ever horizon-scale image of the four million solar masses black hole at the center of the Milky Way, known as Sagittarius A*. For this work, I co-led the parameter survey and antenna gains teams and for my contribution I received one of the ([2022 EHT early-career awards]([https://eventhorizontelescope.org/organization](https://eventhorizontelescope.org/awards-eht)){:target="\_blank"}). 
 
-I'm also member of the **Next-generation Event Horizon Telescope** (I'm one of the facilitators of the multi-wavelength science team of the "BHs and their cosmic context" working group), **Global mm VLBI Array (GMVA)**, **Radioastron space-VLBI**, and **East Asia to Italy nearly global VLBI** scientific pojetcs.
-
-Among other things, I'm a member of the [Time Allocation Committee for the Italian radio telescopes](https://www.radiotelescopes.inaf.it/tac.html){:target="\_blank"}), I'm principal investigator of several observing projects and co-supervised several student thesis and projects. For more info about my research please explore the other pages of this website, or take a look [here](http://vlbigroup.iaa.es/){:target="\_blank"}, or just drop me a message [rlico@iaa.es].
+I'm also member of other scientific collaborations, like the **Next-generation Event Horizon Telescope**, **Einstein Telescope**, **Radioastron space-VLBI**, **East Asia to Italy nearly global VLBI**, et al. I'm a member of the [Time Allocation Committee for the Italian radio telescopes](https://www.radiotelescopes.inaf.it/tac.html){:target="\_blank"}), I'm principal investigator of several observing projects and co-supervised several student thesis and projects. For more info about my research please explore the other pages of this website, or take a look [here](http://vlbigroup.iaa.es/){:target="\_blank"}, or just drop me a message [rocco.lico@inaf.it].
 
 
 
