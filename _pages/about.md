@@ -28,6 +28,4 @@ As part of the EHT collaboration, I had the privilege of contributing to the fir
 
 I’m also an active member of other scientific collaborations, including the **Next-generation Event Horizon Telescope**, **Einstein Telescope**, **Radioastron space-VLBI**, and **East Asia to Italy nearly global VLBI**, among others. I serve on the [Time Allocation Committee for the Italian radio telescopes](https://www.radiotelescopes.inaf.it/tac.html){:target="\_blank"}), lead several observing projects as Principal Investigator, and have co-supervised multiple student theses and research projects.
 
-For more info about my research please explore the other pages of this website, or take a look [here](http://vlbigroup.iaa.es/){:target="\_blank"}, or just drop me a message [rocco.lico@inaf.it].
-
 For more information about my research, feel free to explore the other pages of this website, check out this [link](http://vlbigroup.iaa.es/){:target="\_blank"}, or just drop me a message at  [rocco.lico@inaf.it].
