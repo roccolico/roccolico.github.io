@@ -9,6 +9,43 @@
     display:  arXiv:2407.05794 
   highlight: 0
   news2:
+
+- title: "The persistent shadow of the supermassive black hole of M87: II. Model comparisons and theoretical interpretations"
+  image: pol.png
+  description: ""
+  authors: EHT collaboration
+  date: January 2025 
+  journal: Astronomy & Astrophysics. 
+  link:
+    url: https://www.aanda.org/articles/aa/pdf/2025/01/aa51296-24.pdf
+    display: Link to pdf
+  highlight: 0
+  news2:
+  
+- title: "The persistent shadow of the supermassive black hole of M 87. I. Observations, calibration, imaging, and analysis"
+  image: pol.png
+  description: ""
+  authors: EHT collaboration
+  date: January 2024 
+  journal: Astronomy & Astrophysics. 
+  link:
+    url: https://www.aanda.org/articles/aa/pdf/2024/01/aa47932-23.pdf
+    display: Link to pdf
+  highlight: 0
+  news2:
+
+
+- title: "First Sagittarius A* Event Horizon Telescope Results. VII. Polarization of the Ring"
+  image: pol.png
+  description: ""
+  authors: EHT collaboration
+  date: April 2024 
+  journal: The Astrophysical Journal Letters. 
+  link:
+    url: https://iopscience.iop.org/article/10.3847/2041-8213/ad2df0/pdf
+    display: Link to pdf 
+  highlight: 0
+  news2:
   
 - title: "Multi-Wavelength and Multi-Messenger Studies Using the Next-Generation Event Horizon Telescope"
   image: pol.png
