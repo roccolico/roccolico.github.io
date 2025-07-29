@@ -51,6 +51,11 @@ The details of formation, lunching and fueling process of such relativistic jets
 # Super-massive binary black hole systems
 SMBHs can also be found in binary systems, expected to form during hierarchical galaxy formation as a natural outcome of merger events. However, theory suggests that once two SMBHs get close enough, the stellar dynamical processes that drive the coalescence cease to be effective and prevent the merging. With the recent advance of mm-VLBI, as well as the space-VLBI technique, consisting in synchronizing a ground-based array together with a space satellite, we are further pushing the resolution limit trying to spatially resolve such binary systems and demonstrate their existence.
 
+<p align="center">
+  <img src="../files/oj287.jpeg" alt="drawing" height="auto" width="800" style="border-radius:3%"/>
+  <em>Artist's impression of the binary black hole system in OJ287 (CREDIT AAS 2018).</em>
+</p>
+
 I'm focusing part of my research efforts to this topic, by means of both mm-VLBI ([Lico et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...658L..10L/abstract){:target="\_blank"}) and space-VLBI (Lico et al. in prep.) observations of one of the most reliable candidates, known as OJ287, at ~5 billion light-year from Earth. These observations provide the highest-fidelity reconstruction of the source jet base as well as the magnetic field structure at a resolution of a few tens of micro-arcsec.
 
 
