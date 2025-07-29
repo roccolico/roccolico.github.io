@@ -5,12 +5,11 @@ permalink: /extras/
 author_profile: true
 ---
 
-Outside of Astronomy, I'm a musician and play guitar! Together with some musician friends, I created the  **Greenfinch Sound Project**, based on original compositions: [official page](
+Beyond my work in astronomy, I'm also a musician and guitarist. As a first creative experiment, I collaborated with fellow musicians to create the **Greenfinch Sound Project**, featuring original compositions: [official page](
 https://greenfinchsoundproject.wordpress.com){:target="\_blank"}, [spotify](
 https://open.spotify.com/artist/1j5VpGDvq8ChxCJHVFcNzz){:target="\_blank"}.
 
-
-This music project is mentioned in the article **La banda de las estrellas: astrofísicos de Granada y músicos del universo**, for the Spanish magazine 'IDEAL': [link](https://www.ideal.es/culturas/banda-estrellas-astrofisicos-granada-20220228235559-nt.html?edtn=granada#vca=fixed-btn&vso=rrss&vmc=wh&vli=Culturas){:target="\_blank"}.
+A new project is already in the works...
 
 <!---
 <h1 align="center">Some extra music projects:</h1>
