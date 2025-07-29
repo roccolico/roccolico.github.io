@@ -6,7 +6,7 @@
   journal: Astronomy & Astrophysics. 
   link:
     url: https://arxiv.org/pdf/2407.05794
-    display:  arXiv:2407.05794 
+    display: Link to pdf
   highlight: 0
   news2:
 
@@ -34,7 +34,6 @@
   highlight: 0
   news2:
 
-
 - title: "First Sagittarius A* Event Horizon Telescope Results. VII. Polarization of the Ring"
   image: pol.png
   description: ""
@@ -55,22 +54,33 @@
   journal: Galaxies, ngEHT special issue. 
   link:
     url: https://www.mdpi.com/2075-4434/11/1/17
-    display:  arXiv:2301.05699 
+    display: Link to pdf 
   highlight: 0
   news2:
 
-- title: "Unravelling the Innermost Jet Structure of OJ 287 with the First GMVA+ALMA Observations"
+- title: "Unveiling the bent-jet structure and polarization of OJ 287 at 1.7 GHz with space VLBI"
   image: pol.png
   description: ""
-  authors: Zhao G.-Y., et. al.
-  date: 27 April 2022 
-  journal:  Accepted in The Astrophysical Journal 
+  date: 10 January 2022
+  journal: Astronomy & Astrophysics
+  authors: Cho I., Gómez J. L., Lico R., et al.
+  link: 
+    url: https://arxiv.org/pdf/2312.08643
+    display: Link to pdf
+  highlight: 0
+  news2: 
+
+- title: "Filamentary structures as the origin of blazar jet radio variability"
+  image: pol.png
+  description: ""
+  authors: Fuentes a., et al.
+  date: 27 October 2023 
+  journal: Nature Astronomy 
   link:
-    url: https://doi.org/10.48550/arXiv.2205.00554
-    display: arXiv:2205.00554 
+    url: https://www.nature.com/articles/s41550-023-02105-7
+    display: Link to pdf 
   highlight: 0
   news2:
-
 
 - title: "New jet feature in the parsec-scale jet of the blazar OJ 287 connected to the 2017 teraelectronvolt flaring activity"
   image: pol.png
@@ -80,19 +90,7 @@
   authors: Lico R., et. al.
   link: 
     url: https://www.aanda.org/articles/aa/full_html/2022/02/aa42948-21/aa42948-21.html
-    display: DOI- 10.1051/0004-6361/202142948
+    display: Link to pdf
   highlight: 0
   news2: 
 
-
-- title: "Probing the Innermost Regions of AGN Jets and Their Magnetic Fields with RadioAstron. V. Space and Ground Millimeter-VLBI Imaging of OJ 287"
-  image: pol.png
-  description: ""
-  date: 10 January 2022
-  journal: The Astrophysical Journal, Volume 924, Issue 2
-  authors: Gómez J. L., et. al.
-  link: 
-    url: https://iopscience.iop.org/article/10.3847/1538-4357/ac3bcc
-    display: DOI- 10.3847/1538-4357/ac3bcc
-  highlight: 0
-  news2: 
