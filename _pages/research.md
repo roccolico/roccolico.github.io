@@ -58,5 +58,15 @@ SMBHs can also be found in binary systems, expected to form during hierarchical 
 
 I'm focusing part of my research efforts to this topic, by means of both mm-VLBI ([Lico et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...658L..10L/abstract){:target="\_blank"}) and space-VLBI (Lico et al. in prep.) observations of one of the most reliable candidates, known as OJ287, at ~5 billion light-year from Earth. These observations provide the highest-fidelity reconstruction of the source jet base as well as the magnetic field structure at a resolution of a few tens of micro-arcsec.
 
+# High-resolution imaging of the evolving bipolar outﬂows in symbiotic novae
 
+Novae are astrophysical transient phenomena occurring in binary star systems, where a white dwarf accretes matter from a companion star, typically a main sequence star. As the accreted hydrogen-rich gas accumulates on the white dwarf’s surface, pressure and temperature build up until a thermonuclear explosion occurs, ejecting material through the stellar wind of the companion star at speeds of several thousands of km/sec. The interaction between the expanding shell and the companion wind generates an astrophysical shock, resulting in particle acceleration. As these accelerated particles cool down through interactions with matter and magnetic fields, they emit photons across multiple wavebands.
+Some of these systems are classified as recurrent novae because they undergo multiple eruptions within human time-scales, as the companion star continuously feeds the white dwarf’s dense atmosphere after each ignition. 
+
+<p align="center">
+  <img src="../files/rsoph.jpg" alt="drawing" height="auto" width="800" style="border-radius:3%"/>
+  <em>Artist's impression of the RS Ophiuchi symbiotic nova system. (Credit: David A. Hardy & Ppparc)..</em>
+</p>
+
+To gain deeper insight into the physical mechanisms driving these explosive events and to track the expansion geometry of the ejected material, we recently conducted a multi-frequency radio VLBI monitoring with a global network of radio telescope, known as European VLBI Network (EVN), on one of the most well-known recurrent novae (RS Ophiuchi). We traced the evolving morphology of the expanding bipolar ejecta and characterized the physical conditions of the surrounding medium with unprecedented detail, providing one of the clearest views yet of how material is expelled and shaped during a nova explosion. All the details can be found in Lico et al. 2024, and in the science highlights of the EVN/JIVE Newsletter-Issue 71, May 2025.
 
