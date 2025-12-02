@@ -5,16 +5,20 @@ permalink: /extras/
 author_profile: true
 ---
 
-Beyond my work in astronomy, I'm also a musician and guitarist. As a first creative experiment, I collaborated with fellow musicians to create the **Greenfinch Sound Project**, featuring original compositions: [official page](
-https://greenfinchsoundproject.wordpress.com){:target="\_blank"}, [spotify](
-https://open.spotify.com/artist/1j5VpGDvq8ChxCJHVFcNzz){:target="\_blank"}.
+Beyond my work in astronomy, I'm also a musician and guitarist. With fellow musicians I created a music project called **Real Blu**, featuring original compositions([official page](
+https://realbluproject.wordpress.com){:target="\_blank"}). We released a first EP called **Cathartrip** ([spotify](https://open.spotify.com/album/4j0fb0dJOn5pxWKZrax7Fs?si=3dZk_oYBTuWd5WIRIGiYyw){:target="\_blank"}, [all links](
+https://push.fm/fl/ab1j2xvd){:target="\_blank"}).
 
 A new project is already in the works...
 
 <!---
 <h1 align="center">Some extra music projects:</h1>
 -->
+- **Greenfinch Sound Project**
 
+[Spotify](https://open.spotify.com/album/3vwBipAJj2rgSSpP68zq5C?si=aZsGj_QuQPejRz_jEbR8rQ){:target="\_blank"}
+
+[<img alt="alt_text" width="400px" src="../files/FARaway_project.jpg" />](https://www.youtube.com/watch?v=I3a3KY0gATE){:target="\_blank"}
 
 <p align="center">
   <b>Some extra music projects:</b><br>
