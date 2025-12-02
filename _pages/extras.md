@@ -13,7 +13,7 @@ https://push.fm/fl/ab1j2xvd){:target="\_blank"}).
 [<img alt="alt_text" width="300px" src="../files/real_blu_cathartrip.png" />](https://realbluproject.wordpress.com){:target="\_blank"}
 
 
-<p style="text-align: center"><img src="../files/real_blu_cathartrip.png"></p>
+<p style="text-align: center"><img width="300px" src="../files/real_blu_cathartrip.png"></p>
 
 
 <h2 align="center">Other music projects:</h2>
