@@ -9,6 +9,8 @@ Beyond my work in astronomy, I'm also a musician and guitarist. With fellow musi
 https://realbluproject.wordpress.com){:target="\_blank"}). We released a first EP called **Cathartrip** ([spotify](https://open.spotify.com/album/4j0fb0dJOn5pxWKZrax7Fs?si=3dZk_oYBTuWd5WIRIGiYyw){:target="\_blank"}, [all links](
 https://push.fm/fl/ab1j2xvd){:target="\_blank"}).
 
+<h1 align="center">Some extra music projects:</h1>
+
 <!---
 <h1 align="center">Some extra music projects:</h1>
 -->
