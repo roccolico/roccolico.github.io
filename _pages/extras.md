@@ -9,6 +9,10 @@ Beyond my work in astronomy, I'm also a musician and guitarist. With fellow musi
 https://realbluproject.wordpress.com){:target="\_blank"}), based on original compositions. We released a first EP called **Cathartrip** ([spotify](https://open.spotify.com/album/4j0fb0dJOn5pxWKZrax7Fs?si=3dZk_oYBTuWd5WIRIGiYyw){:target="\_blank"}, [all links](
 https://push.fm/fl/ab1j2xvd){:target="\_blank"}).
 
+<p align="center">
+[<img alt="alt_text" width="300px" src="../files/real_blu_cathartrip" />](Webpage: https://realbluproject.wordpress.com){:target="\_blank"}
+</p>
+
 <h2 align="center">Other music projects:</h2>
 
 <!---
@@ -17,7 +21,7 @@ This is a comment
 
 - **Greenfinch Sound Project** ([Spotify](https://open.spotify.com/album/3vwBipAJj2rgSSpP68zq5C?si=aZsGj_QuQPejRz_jEbR8rQ){:target="\_blank"})
 
-[<img alt="alt_text" width="300px" src="../images/Covers_GSP.jpeg" />](https://www.youtube.com/watch?v=ksW84LBW9f4&list=OLAK5uy_mPCv4zdI564F_PyARBrkFCX5xycjg-IeM){:target="\_blank"}
+[<img alt="alt_text" width="300px" src="../files/Covers_GSP.jpeg" />](https://www.youtube.com/watch?v=ksW84LBW9f4&list=OLAK5uy_mPCv4zdI564F_PyARBrkFCX5xycjg-IeM){:target="\_blank"}
 
 - **FARaway Music Project**
 
