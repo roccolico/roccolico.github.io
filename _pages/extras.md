@@ -17,8 +17,7 @@ This is a comment
 
 - **Greenfinch Sound Project** ([Spotify](https://open.spotify.com/album/3vwBipAJj2rgSSpP68zq5C?si=aZsGj_QuQPejRz_jEbR8rQ){:target="\_blank"})
 
-[<img alt="alt_text" width="300px" src="../files/Covers_GSP.jpeg" />](https://www.youtube.com/watch?v=ksW84LBW9f4&list=OLAK5uy_mPCv4zdI564F_PyARBrkFCX5xycjg-IeM){:target="\_blank"}
-
+[<img alt="alt_text" width="300px" src="../images/Covers_GSP.jpeg" />](https://www.youtube.com/watch?v=ksW84LBW9f4&list=OLAK5uy_mPCv4zdI564F_PyARBrkFCX5xycjg-IeM){:target="\_blank"}
 
 - **FARaway Music Project**
 
