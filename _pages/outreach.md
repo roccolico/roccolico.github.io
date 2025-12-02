@@ -19,10 +19,11 @@ Besides the dissemination of my research results at professional conferences, I'
 - ESO Announcement, Media advisory press conference on groundbreaking Milky Way results from the Event Horizon Telescope Collaboration on May 12, 2022: [link](https://www.eso.org/public/unitedkingdom/announcements/ann22006/?lang){:target="\_blank"}
 
 ***Science podcasts about black holes:***
+- Rai Radio3 (in Italian): for the program 'Radio 3 Scienza' by Marco Motta (29/09/2025): [link](https://www.raiplaysound.it/audio/2025/09/Radio3-Scienza-del-29092025-0e7ec98a-db6a-42ff-b5f0-2330b4a0bfc5.html){:target="\_blank"}.
 
-- Rai Radio 1 (in Italian), for the radio broadcast 'Zapping' by Giancarlo Loquenzi (13/05/2022): [link](https://www.raiplaysound.it/audio/2022/05/Zapping-Radio-1-del-13052022-aca678e9-68c6-4cb9-a50f-4fb6fb1bddfa.html){:target="\_blank"}.
+- Rai Radio 1 (in Italian), for the radio program 'Zapping' by Giancarlo Loquenzi (13/05/2022): [link](https://www.raiplaysound.it/audio/2022/05/Zapping-Radio-1-del-13052022-aca678e9-68c6-4cb9-a50f-4fb6fb1bddfa.html){:target="\_blank"}.
 
-- Radio 3 Spain (in Spanish), for the radio broadcast 'fallo de sistema by Santiago Bustamante: [link](https://www.rtve.es/play/audios/fallo-de-sistema/533-asi-sagitario-nuestro-agujero-negro-supermasivo-29-05-22/6550060/){:target="\_blank"}.
+- Radio 3 Spain (in Spanish), for the radio program 'fallo de sistema by Santiago Bustamante: [link](https://www.rtve.es/play/audios/fallo-de-sistema/533-asi-sagitario-nuestro-agujero-negro-supermasivo-29-05-22/6550060/){:target="\_blank"}.
 
 ***Some outreach talks:***
 
@@ -45,6 +46,8 @@ fotografare i buchi neri con un telescopio grande come la Terra, for the science
 ***Some articles on newspapers***
 
 - WIRED, Dopo i due buchi neri, l'Event horizon telescope ha immortalato un quasar lontanissimo: [link](https://www.wired.it/article/event-horizon-telescope-quasar-ritratto-studio/){:target="\_blank"}.
+
+- Coelum Astronomia (n.277, 2025): 'Il film dei buchi neri: regia Event Horion Telescope' per la rivista Coelum Astronomia': [link](https://www.coelum.com/prodotto/coelum-astronomia-n-277-vi-25){:target="\_blank"}
 
 - ABC (Spanish national newspaper), 'Ya estamos observando otras galaxias, como una candidata a contener dos agujeros negros en su centro': [link](https://www.abc.es/ciencia/abci-estamos-observando-otras-galaxias-como-candidata-contener-agujeros-negros-centro-202205160228_noticia.html){:target="\_blank"}.
 
