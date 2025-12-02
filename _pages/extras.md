@@ -12,7 +12,7 @@ Beyond my work in astronomy, I’m also a musician and guitarist. Together with 
 </p>
 
 
-<h2 align="center">Other music projects:</h2> 
+<h3 align="left">Other music projects:</h3> 
 
 - **Greenfinch Sound Project** ([Spotify](https://open.spotify.com/album/3vwBipAJj2rgSSpP68zq5C?si=aZsGj_QuQPejRz_jEbR8rQ){:target="\_blank"}, [YouTube](https://www.youtube.com/watch?v=ksW84LBW9f4&list=OLAK5uy_mPCv4zdI564F_PyARBrkFCX5xycjg-IeM){:target="\_blank"})
 
