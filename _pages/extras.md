@@ -10,7 +10,7 @@ https://realbluproject.wordpress.com){:target="\_blank"}), based on original com
 https://push.fm/fl/ab1j2xvd){:target="\_blank"}).
 
 <p align="center">
-[<img alt="alt_text" width="300px" src="../files/real_blu_cathartrip.png" />](Webpage: https://realbluproject.wordpress.com){:target="\_blank"}
+[<img alt="alt_text" width="300px" src="../files/real_blu_cathartrip.png" />](https://realbluproject.wordpress.com){:target="\_blank"}
 </p>
 
 <h2 align="center">Other music projects:</h2>
